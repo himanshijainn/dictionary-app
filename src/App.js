@@ -75,13 +75,7 @@ return (
 
 		
 <p>{data.meanings[0].definitions[0].definition}</p>
-
-    
-
-
-		
-
-		</div>
+                 </div>
 	)}
 	</div>
 	
